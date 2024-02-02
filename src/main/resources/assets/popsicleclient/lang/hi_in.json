@@ -1,0 +1,36 @@
+{
+    "popsicleclient.options.title": "पुरपुर ग्राहक विकल्प",
+
+    "popsicleclient.options.fix-chat-stutter":  "अतुल्यकालिक चैट",
+    "popsicleclient.options.fix-chat-stutter.tooltip": "सक्षम करने से चैट दूसरे थ्रेड पर प्रोसेस हो जाएगी ताकि यह रेंडर थ्रेड को बंद न करे",
+    "popsicleclient.options.bee-count-in-debug": "मधुमक्खी की गिनती",
+    "popsicleclient.options.bee-count-in-debug.tooltip": "मधुमक्खी के छत्ते और घोंसलों को देखते समय सक्षम करने से डिबग स्क्रीन (F3) में मधुमक्खियों की संख्या जुड़ जाएगी",
+    "popsicleclient.options.splash-screen": "स्प्लैश स्क्रीन",
+    "popsicleclient.options.splash-screen.tooltip": "सक्षम करने से Mojang's . के बजाय पुरपुर की स्प्लैश स्क्रीन का उपयोग किया जाएगा",
+    "popsicleclient.options.window-title": "विंडो शीर्षक",
+    "popsicleclient.options.window-title.tooltip": "सक्षम करने से Mojang के विंडो शीर्षक के बजाय पुरपुर के विंडो शीर्षक का उपयोग किया जाएगा",
+    "popsicleclient.options.mobs": "मोब्स",
+    "popsicleclient.options.mobs.tooltip": "मोब्स विकल्प स्क्रीन खोलें",
+  
+    "popsicleclient.title.singleplayer": "सिंगलप्लेयर पर %s",
+    "popsicleclient.title.multiplayer.realms": "मल्टीप्लेयर (%s रेलमस पर )",
+    "popsicleclient.title.multiplayer.lan": "मल्टीप्लेयर (%s लैन पर )",
+    "popsicleclient.title.multiplayer.server": "मल्टीप्लेयर (%s पर %s)",
+    "popsicleclient.title.multiplayer.unknown": "मल्टीप्लेयर (%s पर 3rd-party सर्वर)",
+
+    "popsicleclient.options.on": "%s: \u00a7aचालू",
+    "popsicleclient.options.off": "%s: \u00a7cबंद",
+  
+    "popsicleclient.options.no-preview": "पूर्वावलोकन अक्षम",
+    "popsicleclient.options.not-implemented": "अभी तक लागू नहीं किया गया",
+  
+    "popsicleclient.options.seat.title": "%s के लिए सीट समायोजित करें",
+    "popsicleclient.options.seat.x": "x: %s",
+    "popsicleclient.options.seat.x.tooltip": "आगे / पीछे ऑफसेट समायोजित करें",
+    "popsicleclient.options.seat.y": "y: %s",
+    "popsicleclient.options.seat.y.tooltip": "ऊपर/नीचे ऑफसेट समायोजित करें",
+    "popsicleclient.options.seat.z": "z: %s",
+    "popsicleclient.options.seat.z.tooltip": "अगल-बगल ऑफ़सेट समायोजित करें",
+  
+    "popsicleclient.options.mod-settings": "मोब सेटिंग्स"
+}

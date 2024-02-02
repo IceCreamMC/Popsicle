@@ -1,0 +1,36 @@
+{
+  "popsicleclient.options.title": "icecream popsicleclient opcije",
+
+  "popsicleclient.options.fix-chat-stutter": "Asinhroni chat",
+  "popsicleclient.options.fix-chat-stutter.tooltip": "Procesiraj chat na drugom thread-u kako bi se spriječilo opterećenje render thread-a",
+  "popsicleclient.options.bee-count-in-debug": "Broj pčela",
+  "popsicleclient.options.bee-count-in-debug.tooltip": "Prikaži broj pčela u debug (F3) ekranu kada se nacilja košnica",
+  "popsicleclient.options.splash-screen": "Početni ekran",
+  "popsicleclient.options.splash-screen.tooltip": "Koristi icecreamov početni ekran umjesto Mojangovog",
+  "popsicleclient.options.window-title": "Naslov prozora",
+  "popsicleclient.options.window-title.tooltip": "Koristi icecreamov naslov prozora umjesto Mojangovog",
+  "popsicleclient.options.mobs": "Mobovi",
+  "popsicleclient.options.mobs.tooltip": "Otvori mob opcije",
+
+  "popsicleclient.title.singleplayer": "%s u Samostalnoj igri",
+  "popsicleclient.title.multiplayer.realms": "Mrežna igra (%s na Realms)",
+  "popsicleclient.title.multiplayer.lan": "Mrežna igra (%s na LAN)",
+  "popsicleclient.title.multiplayer.server": "Mrežna igra (%s na %s)",
+  "popsicleclient.title.multiplayer.unknown": "Mrežna igra (%s na serveru treće strane)",
+
+  "popsicleclient.options.on": "%s: \u00a7aUKLJUČENO",
+  "popsicleclient.options.off": "%s: \u00a7cISKLJUČENO",
+
+  "popsicleclient.options.no-preview": "Pregled je onemogućen",
+  "popsicleclient.options.not-implemented": "Još nije napravljeno",
+
+  "popsicleclient.options.seat.title": "Namjesti sjedište za %s",
+  "popsicleclient.options.seat.x": "x: %s",
+  "popsicleclient.options.seat.x.tooltip": "Podesite pomak naprijed/nazad",
+  "popsicleclient.options.seat.y": "y: %s",
+  "popsicleclient.options.seat.y.tooltip": "Podesite pomak gore/dolje",
+  "popsicleclient.options.seat.z": "z: %s",
+  "popsicleclient.options.seat.z.tooltip": "Podesite pomak sa strane na stranu",
+
+  "popsicleclient.options.mod-settings": "Mob postavke"
+}

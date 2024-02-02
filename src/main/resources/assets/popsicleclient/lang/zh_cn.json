@@ -1,0 +1,36 @@
+{
+  "popsicleclient.options.title": "icecream popsicleclient 设置",
+
+  "popsicleclient.options.fix-chat-stutter": "异步聊天",
+  "popsicleclient.options.fix-chat-stutter.tooltip": "启用后将在另一个线程上处理聊天，这样就不会阻塞渲染线程了",
+  "popsicleclient.options.bee-count-in-debug": "蜜蜂数量",
+  "popsicleclient.options.bee-count-in-debug.tooltip": "启用可以在调试界面（F3）中查看蜂箱和蜂巢里的蜜蜂个数的功能",
+  "popsicleclient.options.splash-screen": "加载画面",
+  "popsicleclient.options.splash-screen.tooltip": "启用后将使用icecream的加载画面",
+  "popsicleclient.options.window-title": "窗口标题",
+  "popsicleclient.options.window-title.tooltip": "启用后将使用icecream的窗口标题",
+  "popsicleclient.options.mobs": "生物",
+  "popsicleclient.options.mobs.tooltip": "打开生物选项界面",
+
+  "popsicleclient.title.singleplayer": "%s 在单人游戏中",
+  "popsicleclient.title.multiplayer.realms": "多人游戏 (%s 在Realms中)",
+  "popsicleclient.title.multiplayer.lan": "多人游戏 (%s 在局域网中)",
+  "popsicleclient.title.multiplayer.server": "多人游戏 (%s 在 %s 中)",
+  "popsicleclient.title.multiplayer.unknown": "多人游戏 (%s 在第三方服务器中)",
+
+  "popsicleclient.options.on": "%s: \u00a7a开",
+  "popsicleclient.options.off": "%s: \u00a7c关",
+
+  "popsicleclient.options.no-preview": "预览已禁用",
+  "popsicleclient.options.not-implemented": "还没有实施",
+
+  "popsicleclient.options.seat.title": "为 %s 调整座位",
+  "popsicleclient.options.seat.x": "x: %s",
+  "popsicleclient.options.seat.x.tooltip": "调整前/后的偏移量",
+  "popsicleclient.options.seat.y": "y: %s",
+  "popsicleclient.options.seat.y.tooltip": "调整上/下的偏移量",
+  "popsicleclient.options.seat.z": "z: %s",
+  "popsicleclient.options.seat.z.tooltip": "调整侧向偏移量",
+
+  "popsicleclient.options.mod-settings": "生物设置"
+}

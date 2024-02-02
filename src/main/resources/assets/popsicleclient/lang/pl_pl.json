@@ -1,0 +1,36 @@
+{
+  "popsicleclient.options.title": "Ustawienia Klienta icecream",
+
+  "popsicleclient.options.fix-chat-stutter": "Naprawa zacinającego się czatu",
+  "popsicleclient.options.fix-chat-stutter.tooltip": "Włączenie tej funkcji spowoduje, że czat będzie przetwarzany w innym wątku, dzięki czemu nie będzie zapychał wątku renderowania",
+  "popsicleclient.options.bee-count-in-debug": "Liczba pszczół w debugowaniu",
+  "popsicleclient.options.bee-count-in-debug.tooltip": "Włączenie spowoduje dodanie liczby pszczół na ekranie debugowania podczas przeglądania uli i gniazd pszczół",
+  "popsicleclient.options.splash-screen": "Splash Screen",
+  "popsicleclient.options.splash-screen.tooltip": "Włączenie spowoduje użycie splash screen'u icecreama zamiast Mojang'a",
+  "popsicleclient.options.window-title": "Tytuł okna",
+  "popsicleclient.options.window-title.tooltip": "Włączenie tej opcji spowoduje używanie tytułu okna icecream zamiast tytułu Mojang.",
+  "popsicleclient.options.mobs": "Moby",
+  "popsicleclient.options.mobs.tooltip": "Otwórz ustawienia mobów",
+  
+  "popsicleclient.title.singleplayer": "%s w grze Jednoosobowej",
+  "popsicleclient.title.multiplayer.realms": "Gra Wieloosobowa (%s w trybie Realms)",
+  "popsicleclient.title.multiplayer.lan": "Gra Wieloosobowa (%s w trybie LAN)",
+  "popsicleclient.title.multiplayer.server": "Gra Wieloosobowa (%s na serwerze %s)",
+  "popsicleclient.title.multiplayer.unknown": "Gra Wieloosobowa (%s na nieznanym serwerze)",
+
+  "popsicleclient.options.on": "%s: \u00a7aON",
+  "popsicleclient.options.off": "%s: \u00a7cOFF",
+
+  "popsicleclient.options.no-preview": "Podgląd wyłączony",
+  "popsicleclient.options.not-implemented": "Jeszcze niezaimplementowane",
+
+  "popsicleclient.options.seat.title": "Dostosuj siedzenie do %s",
+  "popsicleclient.options.seat.x": "x: %s",
+  "popsicleclient.options.seat.x.tooltip": "Dostosuj przesunięcie do przodu/tyłu",
+  "popsicleclient.options.seat.y": "y: %s",
+  "popsicleclient.options.seat.y.tooltip": "Dostosuj przesunięcie w górę/dół",
+  "popsicleclient.options.seat.z": "z: %s",
+  "popsicleclient.options.seat.z.tooltip": "Dostosuj przesunięcie boczne",
+
+  "popsicleclient.options.mod-settings": "Ustawienia mobów"
+}

@@ -1,0 +1,36 @@
+{
+  "popsicleclient.options.title": "Настройки icecream popsicleclient",
+
+  "popsicleclient.options.fix-chat-stutter": "Асинхронный чат",
+  "popsicleclient.options.fix-chat-stutter.tooltip": "При включении чат будет обрабатываться в отдельном потоке, чтобы не нагружать основной поток рендеринга.",
+  "popsicleclient.options.bee-count-in-debug": "Подсчет пчёл в ульях",
+  "popsicleclient.options.bee-count-in-debug.tooltip": "При включении на экране отладки (F3) добавится подсчет пчел во время просмотра ульев.",
+  "popsicleclient.options.splash-screen": "Загрузочный экран",
+  "popsicleclient.options.splash-screen.tooltip": "При включении загрузочный экран Mojang будет заменен вариантом icecream.",
+  "popsicleclient.options.window-title": "Название и иконка окна",
+  "popsicleclient.options.window-title.tooltip": "При включении название и иконка окна Mojang будут заменены вариантами icecream.",
+  "popsicleclient.options.mobs": "Мобы",
+  "popsicleclient.options.mobs.tooltip": "Открыть экран настройки мобов",
+
+  "popsicleclient.title.singleplayer": "%s в одиночной игре",
+  "popsicleclient.title.multiplayer.realms": "Сетевая игра (%s на Realms)",
+  "popsicleclient.title.multiplayer.lan": "Сетевая игра (%s по локальной сети)",
+  "popsicleclient.title.multiplayer.server": "Сетевая игра (%s на %s)",
+  "popsicleclient.title.multiplayer.unknown": "Сетевая игра (%s на стороннем сервере)",
+
+  "popsicleclient.options.on": "%s: \u00a7aВкл",
+  "popsicleclient.options.off": "%s: \u00a7cВыкл",
+
+  "popsicleclient.options.no-preview": "Предварительный просмотр отключен",
+  "popsicleclient.options.not-implemented": "Пока-что не реализовано",
+
+  "popsicleclient.options.seat.title": "Регулировка сидения для %s",
+  "popsicleclient.options.seat.x": "x: %s",
+  "popsicleclient.options.seat.x.tooltip": "Смещение вперед/назад.",
+  "popsicleclient.options.seat.y": "y: %s",
+  "popsicleclient.options.seat.y.tooltip": "Смещение вверх/вниз.",
+  "popsicleclient.options.seat.z": "z: %s",
+  "popsicleclient.options.seat.z.tooltip": "Боковое смещение.",
+
+  "popsicleclient.options.mod-settings": "Настройки мода"
+}

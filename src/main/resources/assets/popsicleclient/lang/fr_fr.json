@@ -1,0 +1,33 @@
+{
+  "popsicleclient.options.title": "Paramètres de icecream popsicleclient",
+
+  "popsicleclient.options.fix-chat-stutter": "Chat Asynchrone",
+  "popsicleclient.options.fix-chat-stutter.tooltip": "L'activer traitera le chat sur un autre thread pour qu'il ne bloque pas le thread du rendu",
+  "popsicleclient.options.bee-count-in-debug": "Nombres d'Abeilles",
+  "popsicleclient.options.bee-count-in-debug.tooltip": "L'activer ajoutera le nombre d'abeilles dans l'écran de débogage (F3) en regardant les ruches et les nids d'abeilles",
+  "popsicleclient.options.splash-screen": "Écran de démarrage",
+  "popsicleclient.options.splash-screen.tooltip": "L'activer changera l'écran de démarrage de Mojang par celui de icecream",
+  "popsicleclient.options.window-title": "Titre de la Fenêtre",
+  "popsicleclient.options.window-title.tooltip": "L'activer changera le titre de la fenêtre de Mojang par celui de icecream",
+  "popsicleclient.options.mobs": "Créatures",
+  "popsicleclient.options.mobs.tooltip": "Ouvrir l'écran des options des créatures",
+  
+  "popsicleclient.title.singleplayer": "%s en Solo",
+  "popsicleclient.title.multiplayer.realms": "Multijoueur (%s sur Realms)",
+  "popsicleclient.title.multiplayer.lan": "Multijoueur (%s sur LAN)",
+  "popsicleclient.title.multiplayer.server": "Multijoueur (%s sur %s)",
+  "popsicleclient.title.multiplayer.unknown": "Multijoueur (%s sur Serveurs Tiers)",
+  
+  "popsicleclient.options.no-preview": "Prévisualisation désactivée",
+  "popsicleclient.options.not-implemented": "Pas encore implémenté",
+
+  "popsicleclient.options.seat.title": "Ajuster le siège pour %s",
+  "popsicleclient.options.seat.x": "x : %s",
+  "popsicleclient.options.seat.x.tooltip": "Ajuster le décalage avant/arrière",
+  "popsicleclient.options.seat.y": "y : %s",
+  "popsicleclient.options.seat.y.tooltip": "Ajuster le décalage dessus/dessous",
+  "popsicleclient.options.seat.z": "z : %s",
+  "popsicleclient.options.seat.z.tooltip": "Ajuster le décalage côté par côté",
+  
+  "popsicleclient.options.mod-settings": "Paramètres des créatures"
+}

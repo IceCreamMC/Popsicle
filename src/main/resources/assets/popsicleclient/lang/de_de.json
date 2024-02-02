@@ -1,0 +1,36 @@
+{
+  "popsicleclient.options.title": "icecream popsicleclient Einstellungen",
+
+  "popsicleclient.options.fix-chat-stutter": "Asynchroner Chat",
+  "popsicleclient.options.fix-chat-stutter.tooltip": "Wenn aktiv wird der Chat in einem anderen Thread verarbeitet, sodass der Render-Thread nicht überladen wird",
+  "popsicleclient.options.bee-count-in-debug": "Bienen Anzahl",
+  "popsicleclient.options.bee-count-in-debug.tooltip": "Wenn aktiv wird die Bienenanzahl von Bienenstöcke bzw. Bienennestern im Debug-Bildschirm (F3) angezeigt, wenn diese angeschaut werden",
+  "popsicleclient.options.splash-screen": "Begrüßungsbildschirm",
+  "popsicleclient.options.splash-screen.tooltip": "Wenn aktiv wird icecreams Begrüßungsbildschirm anstelle von Mojangs verwendet",
+  "popsicleclient.options.window-title": "Fenster Titel",
+  "popsicleclient.options.window-title.tooltip": "Wenn aktiv wird icecreams Fenstertitel anstelle von Mojangs verwendet",
+  "popsicleclient.options.mobs": "Mobs",
+  "popsicleclient.options.mobs.tooltip": "Öffne die Mob Einstellungen",
+
+  "popsicleclient.title.singleplayer": "%s im Einzelspieler",
+  "popsicleclient.title.multiplayer.realms": "Mehrspieler (%s auf Realms)",
+  "popsicleclient.title.multiplayer.lan": "Mehrspieler (%s im LAN)",
+  "popsicleclient.title.multiplayer.server": "Mehrspieler (%s auf %s)",
+  "popsicleclient.title.multiplayer.unknown": "Mehrspieler (%s on 3rd-party Server)",
+
+  "popsicleclient.options.on": "%s: \u00a7aAN",
+  "popsicleclient.options.off": "%s: \u00a7cAUS",
+
+  "popsicleclient.options.no-preview": "Vorschau deaktiviert",
+  "popsicleclient.options.not-implemented": "Noch nicht implementiert",
+
+  "popsicleclient.options.seat.title": "Position für %s bearbeiten",
+  "popsicleclient.options.seat.x": "x: %s",
+  "popsicleclient.options.seat.x.tooltip": "Passt den Vorwärts-/Rückwärtsversatz an",
+  "popsicleclient.options.seat.y": "y: %s",
+  "popsicleclient.options.seat.y.tooltip": "Passt den Auf-/Ab-Versatz an",
+  "popsicleclient.options.seat.z": "z: %s",
+  "popsicleclient.options.seat.z.tooltip": "Passt den seitlichen Versatz an",
+
+  "popsicleclient.options.mod-settings": "Mob Einstellungen"
+}

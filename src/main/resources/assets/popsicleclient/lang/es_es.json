@@ -1,0 +1,21 @@
+{
+  "popsicleclient.options.title": "Opciones del popsiclecliente de icecream",
+
+  "popsicleclient.options.fix-chat-stutter": "Solucionar el tartamudeo del chat",
+  "popsicleclient.options.fix-chat-stutter.tooltip": "Habilitar esto hará que el chat sea procesado en otro hilo para que no obstruya el hilo de render",
+  "popsicleclient.options.bee-count-in-debug": "Conteo de Abejas en la depuración",
+  "popsicleclient.options.bee-count-in-debug.tooltip": "Habilitar esto agregará conteos de abejas en la pantalla de depuración al mirar colmenas y nidos de abejas",
+
+  "popsicleclient.options.no-preview": "Vista previa deshabilitada",
+  "popsicleclient.options.not-implemented": "Aún sin implementar",
+
+  "popsicleclient.options.seat.title": "Ajustar asiento para %s",
+  "popsicleclient.options.seat.x": "x: %s",
+  "popsicleclient.options.seat.x.tooltip": "Ajustar el desplazamiento hacia adelante/hacia atrás",
+  "popsicleclient.options.seat.y": "y: %s",
+  "popsicleclient.options.seat.y.tooltip": "Ajustar compensación arriba/abajo",
+  "popsicleclient.options.seat.z": "z: %s",
+  "popsicleclient.options.seat.z.tooltip": "Ajustar el desplazamiento de lado a lado",
+
+  "popsicleclient.options.mod-settings": "Configuración de Mobs"
+}

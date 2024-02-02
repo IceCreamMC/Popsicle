@@ -1,0 +1,36 @@
+{
+  "popsicleclient.options.title": "icecream popsicleclient Opties",
+
+  "popsicleclient.options.fix-chat-stutter": "Asynchrone Chat",
+  "popsicleclient.options.fix-chat-stutter.tooltip": "Inschakelen zal chat op een andere thread verwerken zodat de render thread niet blokkeert",
+  "popsicleclient.options.bee-count-in-debug": "Bijen Telling",
+  "popsicleclient.options.bee-count-in-debug.tooltip": "Inschakelen voegt de hoeveelheid bijen toe aan het debugscherm (F3) bij het bekijken van bijenkorven en nesten",
+  "popsicleclient.options.splash-screen": "Opstartscherm",
+  "popsicleclient.options.splash-screen.tooltip": "Inschakelen zal het icecream opstartscherm gebruiken in plaats van de originele Mojang versie",
+  "popsicleclient.options.window-title": "Venstertitel",
+  "popsicleclient.options.window-title.tooltip": "Inschakelen zal het icecream venstertitel gebruiken in plaats van de originele Mojang titel",
+  "popsicleclient.options.mobs": "Mobs",
+  "popsicleclient.options.mobs.tooltip": "Opent het mob opties scherm",
+
+  "popsicleclient.title.singleplayer": "%s in alleen spelen",
+  "popsicleclient.title.multiplayer.realms": "Samen spelen (%s op Realms)",
+  "popsicleclient.title.multiplayer.lan": "Samen spelen (%s in LAN)",
+  "popsicleclient.title.multiplayer.server": "Samen spelen (%s op %s)",
+  "popsicleclient.title.multiplayer.unknown": "Samen spelen (%s op 3e partij server)",
+
+  "popsicleclient.options.on": "%s: \u00a7aAAN",
+  "popsicleclient.options.off": "%s: \u00a7cUIT",
+
+  "popsicleclient.options.no-preview": "Voorbeeld uitgeschakeld",
+  "popsicleclient.options.not-implemented": "Nog niet geïmplementeerd",
+
+  "popsicleclient.options.seat.title": "Verstel zitlocatie voor %s",
+  "popsicleclient.options.seat.x": "x: %s",
+  "popsicleclient.options.seat.x.tooltip": "Pas voorwaartse/achterwaartse verplaatsing aan",
+  "popsicleclient.options.seat.y": "y: %s",
+  "popsicleclient.options.seat.y.tooltip": "Pas omhoog/omlaag verplaatsing aan",
+  "popsicleclient.options.seat.z": "z: %s",
+  "popsicleclient.options.seat.z.tooltip": "Pas zijwaartse verplaatsing aan",
+
+  "popsicleclient.options.mod-settings": "Mob Instellingen"
+}
